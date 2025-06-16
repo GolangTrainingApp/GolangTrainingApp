@@ -1,9 +1,9 @@
 package main
 
 import (
-	"GoTrainingProject/client"
-	"GoTrainingProject/server"
 	"fmt"
+	"github.com/GolangTrainingApp/GolangTrainingApp/client"
+	"github.com/GolangTrainingApp/GolangTrainingApp/server"
 )
 
 func main() {
